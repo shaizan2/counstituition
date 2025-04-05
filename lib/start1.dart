@@ -28,7 +28,7 @@ class _Start1State extends State<Start1> {
             right: 20,
             child: ElevatedButton(onPressed: (){
               Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>Start2()));
-            }, child: Text("data12344567")))
+            }, child: Text("data12344567890")))
         ],
       ),
     );
